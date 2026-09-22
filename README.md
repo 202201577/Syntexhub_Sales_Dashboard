@@ -52,7 +52,7 @@ A comprehensive analysis of Superstore sales data spanning 4 years (2014-2017), 
 
 🔗 **Live Dashboard:** [View on Google Data Studio](https://lookerstudio.google.com/reporting/a983f3d8-7697-4221-8d66-a8d41450a0c7/view)
 
-[View Dashboard Screenshot (PDF)](dashboard_screenshot.pdf)
+📄 **Dashboard Screenshot:** [View Dashboard Screenshot (PDF)](dashboard_screenshot.pdf)
 
 ### Dashboard Features:
 - **4 KPI Cards** — Revenue, Profit, Orders, Customers
@@ -77,7 +77,7 @@ A comprehensive analysis of Superstore sales data spanning 4 years (2014-2017), 
 | `Syntexhub_Sales_Dashboard.ipynb` | Complete Python analysis code |
 | `superstore_cleaned.xlsx` | Cleaned dataset (Excel format) |
 | `sales_analysis.png` | Python visualization charts |
-| `dashboard_screenshot.png` | Interactive dashboard preview |
+| `dashboard_screenshot.pdf` | Interactive dashboard preview |
 | `README.md` | Project documentation |
 
 ## 🚀 How to Run
