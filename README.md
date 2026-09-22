@@ -63,28 +63,28 @@ A comprehensive analysis of Superstore sales data spanning 4 years (2014-2017), 
 - **Theme:** Constellation (Dark professional theme)
 
 ## 🔍 Analysis Steps
-1. **Data Cleaning** - Removed nulls, duplicates, converted date formats
-2. **Feature Engineering** - Extracted Year, Month, Quarter, YearMonth
-3. **KPI Calculation** - Revenue, Profit, Profit Margin
-4. **Trend Analysis** - Monthly, Quarterly, Yearly sales patterns
-5. **Product Analysis** - Top and low performing products
-6. **Regional & Category Analysis** - Performance comparison
-7. **Data Visualization** - Charts in Python + Interactive Dashboard in Data Studio
+1. **Data Cleaning** — Removed nulls, duplicates, converted date formats
+2. **Feature Engineering** — Extracted Year, Month, Quarter, YearMonth
+3. **KPI Calculation** — Revenue, Profit, Profit Margin
+4. **Trend Analysis** — Monthly, Quarterly, Yearly sales patterns
+5. **Product Analysis** — Top and low performing products
+6. **Regional & Category Analysis** — Performance comparison
+7. **Data Visualization** — Charts in Python + Interactive Dashboard in Data Studio
 
 ## 📁 Project Files
 | File | Description |
 |------|-------------|
 | `Syntexhub_Sales_Dashboard.ipynb` | Complete Python analysis code |
-| `superstore_cleaned.csv` | Cleaned dataset |
+| `superstore_cleaned.xlsx` | Cleaned dataset (Excel format) |
 | `sales_analysis.png` | Python visualization charts |
 | `dashboard_screenshot.png` | Interactive dashboard preview |
 | `README.md` | Project documentation |
 
 ## 🚀 How to Run
 1. Open `Syntexhub_Sales_Dashboard.ipynb` in Google Colab
-2. Upload `superstore_cleaned.csv` to Colab
+2. Upload `superstore_cleaned.xlsx` to Colab
 3. Run all cells sequentially
-4. For the dashboard, open the live link above
+4. For the interactive dashboard, open the live link above
 
 ## 💡 Business Recommendations
 - **Focus on Technology category** — highest profit margin
