@@ -52,7 +52,7 @@ A comprehensive analysis of Superstore sales data spanning 4 years (2014-2017), 
 
 🔗 **Live Dashboard:** [View on Google Data Studio](https://lookerstudio.google.com/reporting/a983f3d8-7697-4221-8d66-a8d41450a0c7/view)
 
-![Dashboard Preview](dashboard_screenshot.png)
+[View Dashboard Screenshot (PDF)](dashboard_screenshot.pdf)
 
 ### Dashboard Features:
 - **4 KPI Cards** — Revenue, Profit, Orders, Customers
